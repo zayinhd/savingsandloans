@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\usertransfers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\usertransfers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\usertransfers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\usertransfers.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\adminadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\adminadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\adminadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\adminadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\admintransactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\admintransactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\admintransactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\admintransactions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\adminloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\adminloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\adminloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\adminloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\userhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\userhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\userhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\userhistory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\userwithdraw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\userwithdraw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\userwithdraw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\userwithdraw.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\userloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\userloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\userloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\userloan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\user.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\usersession.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\usersession.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|c:\\users\\zayin\\documents\\visual basic\\savings and loans\\savings and loans\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DF1EAB7C-A368-4EF1-968E-CF85B6B347C7}|Savings And Loans\\Savings And Loans.vbproj|solutionrelative:savings and loans\\signup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\DatabaseHelper.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\DatabaseHelper.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\DatabaseHelper.vb",
+              "RelativeToolTip": "Savings And Loans\\DatabaseHelper.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T16:16:27.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTransfers.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserTransfers.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserTransfers.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserTransfers.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\UserTransfers.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:52:29.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Admin.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\Admin.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Admin.vb",
+              "RelativeToolTip": "Savings And Loans\\Admin.vb",
+              "ViewState": "AgIAAF0AAAAAMzMzMzMpwIIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T06:17:41.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserTransfers.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserTransfers.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserTransfers.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserTransfers.vb",
+              "RelativeToolTip": "Savings And Loans\\UserTransfers.vb",
+              "ViewState": "AgIAACsAAAAAMzMzMzMhwEQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T07:34:23.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminTransactions.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminTransactions.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\AdminTransactions.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminTransactions.vb",
+              "RelativeToolTip": "Savings And Loans\\AdminTransactions.vb",
+              "ViewState": "AgIAAE8AAACAMjMzMzMnwHYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T12:37:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAdmin.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminAdmin.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\AdminAdmin.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminAdmin.vb",
+              "RelativeToolTip": "Savings And Loans\\AdminAdmin.vb",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwI4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T12:36:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Admin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Admin.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\Admin.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Admin.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\Admin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-13T22:32:37.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAdmin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminAdmin.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\AdminAdmin.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminAdmin.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\AdminAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T12:20:14.258Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminTransactions.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminTransactions.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\AdminTransactions.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminTransactions.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\AdminTransactions.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T12:06:16.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLoan.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminLoan.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\AdminLoan.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminLoan.vb",
+              "RelativeToolTip": "Savings And Loans\\AdminLoan.vb",
+              "ViewState": "AgIAACsAAAAA+P////8HwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T11:42:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLoan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminLoan.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\AdminLoan.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\AdminLoan.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\AdminLoan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T11:42:31.785Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserHistory.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserHistory.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserHistory.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserHistory.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\UserHistory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T12:06:47.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserWithdraw.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserWithdraw.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserWithdraw.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserWithdraw.vb",
+              "RelativeToolTip": "Savings And Loans\\UserWithdraw.vb",
+              "ViewState": "AgIAACEAAAAAzszMzMwMwG8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:59:56.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserHistory.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserHistory.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserHistory.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserHistory.vb",
+              "RelativeToolTip": "Savings And Loans\\UserHistory.vb",
+              "ViewState": "AgIAAD0AAAAAMTMzMzMpwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T12:13:34.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserWithdraw.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserWithdraw.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserWithdraw.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserWithdraw.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\UserWithdraw.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:53:51.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoan.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserLoan.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserLoan.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserLoan.vb",
+              "RelativeToolTip": "Savings And Loans\\UserLoan.vb",
+              "ViewState": "AgIAAJ8AAACQmZmZmZkwwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T07:33:29.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserLoan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserLoan.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserLoan.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserLoan.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\UserLoan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T06:51:03.763Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Login.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\Login.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Login.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-14T00:06:03.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\User.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\User.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\User.vb",
+              "RelativeToolTip": "Savings And Loans\\User.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T07:15:42.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\User.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\User.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\User.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\User.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-14T00:13:59.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserSession.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserSession.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\UserSession.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\UserSession.vb",
+              "RelativeToolTip": "Savings And Loans\\UserSession.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-13T23:57:12.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Login.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\Login.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\Login.vb",
+              "RelativeToolTip": "Savings And Loans\\Login.vb",
+              "ViewState": "AgIAAAUAAADAzMzMzMwmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-14T00:06:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\app.config",
+              "RelativeDocumentMoniker": "Savings And Loans\\app.config",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\app.config",
+              "RelativeToolTip": "Savings And Loans\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-17T07:59:13.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignUp.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\SignUp.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\SignUp.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\SignUp.vb [Design]",
+              "RelativeToolTip": "Savings And Loans\\SignUp.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T17:07:23.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SignUp.vb",
+              "DocumentMoniker": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\SignUp.vb",
+              "RelativeDocumentMoniker": "Savings And Loans\\SignUp.vb",
+              "ToolTip": "C:\\Users\\zayin\\Documents\\Visual Basic\\Savings And Loans\\Savings And Loans\\SignUp.vb",
+              "RelativeToolTip": "Savings And Loans\\SignUp.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-11T16:13:48.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
